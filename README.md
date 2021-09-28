@@ -1,3 +1,3 @@
 # PythonPrograms
-Just my Python programs!
-(Adding my Python programs daily)
+Just my Python programs!<br>
+(Learning and adding my Python programs daily)
