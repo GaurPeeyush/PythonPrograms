@@ -1,0 +1,12 @@
+b =  set()
+b.add(1)
+b.add(2)
+b.add(2)
+b.add(3)
+# we cannot add list and dictionary in the set 
+print(b)
+print(len(b))
+b.remove(2)
+print(b)
+print(b.pop())
+print(b)
